@@ -1,0 +1,4 @@
+#Sun Jun 21 08:14:48 ICT 2020
+base.0=D\:\\project\\serabutan\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
